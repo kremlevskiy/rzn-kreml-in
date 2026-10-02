@@ -16,4 +16,3 @@
 ## Запуск
 
 Все файлы держать в одной папке и открыть `index.html`.
-Для GitHub Pages: Settings → Pages → Deploy from a branch → `main` / `(root)`.
