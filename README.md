@@ -1,4 +1,4 @@
-# [Рязанский кремль](https://kremlevskiy.github.io/rzn-kreml-in)
+# [Сайт Рязанского кремля](https://kremlevskiy.github.io/rzn-kreml-in "ссылка на github pages")
 
 (HTML + CSS). Все файлы лежат в одной папке:
 
