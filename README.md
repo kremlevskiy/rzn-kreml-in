@@ -1,4 +1,4 @@
-# Рязанский кремль
+# [Рязанский кремль](https://kremlevskiy.github.io/rzn-kreml-in)
 
 (HTML + CSS). Все файлы лежат в одной папке:
 
@@ -7,5 +7,3 @@
 - style.css - стили
 - *.jpg - фотографии
 - photos.zip, kremlin-text.txt - файлы для скачивания
-
-[Публикация на GitHub Pages](https://kremlevskiy.github.io/rzn-kreml-in)
