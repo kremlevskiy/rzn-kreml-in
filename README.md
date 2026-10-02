@@ -8,4 +8,4 @@
 - *.jpg - фотографии
 - photos.zip, kremlin-text.txt - файлы для скачивания
 
-[Публикация на GitHub Pages] (https://kremlevskiy.github.io/rzn-kreml-in)
+[Публикация на GitHub Pages](https://kremlevskiy.github.io/rzn-kreml-in)
